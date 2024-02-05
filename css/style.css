@@ -1,0 +1,25 @@
+html {
+    background-color: hotpink;
+    padding: 1em;
+}
+
+#container div {
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+p {
+    color: lightblue;
+    font-size: 50px;
+}
+
+div {
+    padding: 2em;
+    font-family: "Comic Sans MS";
+    background-color: black;
+}
+
+button {
+    background: none;
+    border: none;
+}
